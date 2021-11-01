@@ -10,8 +10,8 @@ import java.util.List;
 public class ProductDao {
 
     private List<Product> products = Arrays.asList(
-            new Product("Mydło", "Pieniące", new BigDecimal("25.00")),
-            new Product("Masło", "Się roztrzasło", new BigDecimal("99.99")),
+            new Product("Mydło", "Pieniącekjhkj", new BigDecimal("25.00")),
+            new Product("Majhjksło", "Się roztrzasło", new BigDecimal("99.99")),
             new Product("Chleb", "Razowy", new BigDecimal("5.50")));
 
     public List<Product> all() {
